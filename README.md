@@ -45,3 +45,15 @@ Feel free to contribute to this project! Fork the repository, make your changes,
  ![RPS-HOME](https://github.com/user-attachments/assets/073fa0e2-062e-4d9a-9be7-79adf4e53093)
 
 ![RPS-DRAW](https://github.com/user-attachments/assets/49661321-097f-44c3-bb88-bd83b281a88f)
+
+![RPS-WIN](https://github.com/user-attachments/assets/ea830da6-d553-4ac6-80d7-459b76b38cf2)
+
+![RPS-LOOSE](https://github.com/user-attachments/assets/4ec0604f-5f97-44ab-b42e-bc1ddb4ecd20)
+
+
+
+
+
+
+
+
