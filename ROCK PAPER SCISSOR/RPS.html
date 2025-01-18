@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>rock paper scissor</title>
+    <link rel="stylesheet" href="SPS.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="head"><h1>ROCK - PAPER - SCISSOR</h1></div>
+        <div class="game">
+            <div class="main">
+                <button class="sps" id="rock"><i class="fa-solid fa-hand-fist"></i></button>
+                <button class="sps" id="paper"><i class="fa-solid fa-hand"></i></button>
+                <button class="sps" id="scissor"><i class="fa-solid fa-hand-peace"></i></button>
+            </div>
+            <div class="score-calculator">
+                <div class="player">
+                    <h2 id="score-p">0</h2>
+                    <h2 id="name">PLAYER</h2>
+                </div>
+                <div class="computer">
+                    <h2 id="score-c">0</h2>
+                    <h2 id="comp">COMPUTER</h2>
+                </div>
+            </div>
+        </div>
+        <div class="win-msg hide">
+<h1 id="msg">Play your move         <i class="fa-solid fa-play"></i></h1>
+        </div>
+    </div>
+    <script src="SPS.js"></script>
+</body>
+
+</html>

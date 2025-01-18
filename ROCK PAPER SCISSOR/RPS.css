@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    align-items: center;
+}
+
+.container{
+    height: 90vh;
+
+
+}
+.head{
+    background-color: brown;
+    width: 100%;
+    height: 55px;
+    line-height: 55px;
+    color: antiquewhite;
+    font-size: larger;
+    font-weight: 400;
+    margin-top: 40px;
+}
+
+.game{
+    height: 65vmin;
+
+
+}
+
+.score-calculator{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    gap: 210px;
+}
+
+.main{
+    height: 30vmin;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.sps{
+    height: 20vmin;
+    width: 20vmin;
+background-color: goldenrod;
+    border-radius: 50%;
+border: none;
+font-size: xxx-large;
+font-weight: 700;
+
+}
+
+.sps:hover{
+    /* border: 5px solid rgb(26, 26, 66); */
+    border: 5px solid #ac3a39;
+    cursor: pointer;
+}
+
+.player{
+    line-height: 75px;
+    height: 170px;
+    width: 200px;
+    background-color: #f4dcca;
+    font-size:larger;
+    font-weight: 600;
+    color: rgb(23, 23, 68);
+    border-radius: 3rem;
+}
+
+.computer{
+line-height: 75px;
+    height: 170px;
+    width: 200px;
+background-color: #f4dcca;
+    font-size:larger;
+    font-weight: 600;
+    color: rgb(23, 23, 68);
+    border-radius: 3rem;
+}
+
+.win-msg{
+    width: 500px;
+    height: 60px;
+    background-color: rgb(26,26,66);
+    text-align: center;
+    border-radius: 30px;
+    position: relative;
+    top: 35px;
+    left: 530px;
+    line-height: 60px;
+    color: #ffff;
+    margin-top: 20px;
+}
+
+#score-p{
+font-size: xxx-large;
+}
+#score-c{
+font-size: xxx-large;
+}
+
+
+
+.sps.highlight{
+    border: 5px solid #3285ca;
+}
