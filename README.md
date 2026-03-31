@@ -38,6 +38,7 @@ This is a simple Rock Paper Scissors game implemented in **JavaScript**. The gam
 ## CONTRIBTION 🤝
 
 Feel free to contribute to this project! Fork the repository, make your changes, and submit a pull request.
+i would really appreciate your effort.
 
 ---
  ## OVERVIEW 🍿
